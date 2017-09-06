@@ -1,0 +1,8 @@
+#No minecart command by TheIndra
+commands:
+    - audio
+    - connect
+    - openaudio
+    - admin
+
+bericht: '&4Je kan geen commands uitvoeren tijdens de rit!'
